@@ -4,7 +4,7 @@ Tableau Application
 - Pandas Data Transformation
 
 ## Tableau Public Application
-[link to dashboard](LINK GOES HERE)
+[link to dashboard](https://public.tableau.com/profile/zachary.borglin#!/vizhome/NYC_CitiBike_Challenge_16107646727890/CitiBikeNYAnalysis?publish=yes)
 
 ## **Purpose** 
 **Market Analysis to support planning a bike-share business venture** in the Des Moines, Iowa. To estimate resource needs and develop strategic, data-driven objectives, a series of Tableau data visualizations were developed. Specifically, the client's request is for an analysis of the New York CitiBike ridesharing data from the month of August in 2019. This will reflect metadata for the busiest month which will help to amplify any data signals between user types and location. 
@@ -19,7 +19,7 @@ This report comprises:
 - **Top Ending Locations Map** *A heatmap that illustrates how ride end timing changes each weekday*
 - **Gender Breakdown** *A heatmap that illustrates how ride end timing changes each weekday*
 #
-These data are critical to Pewlett-Hackard's planning process filling vacancies and fostering the transfer of knowledge to newer employees. 
+These data are critical to a bike share startup's business strategy. 
 
 ## Resources
 ### Raw Data Source
@@ -33,7 +33,7 @@ These data are critical to Pewlett-Hackard's planning process filling vacancies 
 - Pandas
 - Jupyter Notebook
 
-## Resources
+## Analysis
 ![Checkout Times for Users](https://github.com/zborglin/CitiBike_Bikeshare_Market_Analysis/blob/main/resources/images/Checkout_Times_for_Users_lineplot.png)
 ### Figure 1: Checkout Times for Users
 This interactive plot allows users to select data and view summarized statics. Bike checkout times are often 3-7 hours long, following a normal distribution with a left skew. This distibution helps to understand the demand for bikes and how often they may be under use. The long tail to the right of the distribution, indicates that a number of users will maintain the reservation long past the length of a typical ride. This leads to a hypothesis that riders can either maintain a bike for multiple rides, overnight, or forget to end their ride. 
