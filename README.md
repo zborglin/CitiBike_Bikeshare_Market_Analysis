@@ -34,35 +34,35 @@ These data are critical to Pewlett-Hackard's planning process filling vacancies 
 - Jupyter Notebook
 
 ## Resources
-![Checkout Times for Users](https://github.com/zborglin/bikesharing/blob/main/resources/images/Checkout_Times_for_Users_lineplot.png)
+![Checkout Times for Users](https://github.com/zborglin/CitiBike_Bikeshare_Market_Analysis/blob/main/resources/images/Checkout_Times_for_Users_lineplot.png)
 ### Figure 1: Checkout Times for Users
 This interactive plot allows users to select data and view summarized statics. Bike checkout times are often 3-7 hours long, following a normal distribution with a left skew. This distibution helps to understand the demand for bikes and how often they may be under use. The long tail to the right of the distribution, indicates that a number of users will maintain the reservation long past the length of a typical ride. This leads to a hypothesis that riders can either maintain a bike for multiple rides, overnight, or forget to end their ride. 
 
-![Checkout Times by Gender](https://github.com/zborglin/bikesharing/blob/main/resources/images/Checkout_Times_by_Gender_lineplot.png)
+![Checkout Times by Gender](https://github.com/zborglin/CitiBike_Bikeshare_Market_Analysis/blob/main/resources/images/Checkout_Times_by_Gender_lineplot.png)
 ### Figure 2: Checkout Times by Gender
 Another look at the data discussed in figure 1 with distinction by gender provides additional insight into how long different types of users sustain a bike rental. It appears that males are more likely to use a bike rental than a female.
 
-![Gender Breakdown](https://github.com/zborglin/bikesharing/blob/main/resources/images/Gender_Breakdown.png)
+![Gender Breakdown](https://github.com/zborglin/CitiBike_Bikeshare_Market_Analysis/blob/main/resources/images/Gender_Breakdown.png)
 ### Figure 8: Gender Breakdown
 To confirm the statement in the previous figure that males are more likely to rent a bike, this pie chart gives the gender breakdown for each ride.
 
-![Trips by Weekday per Hour](https://github.com/zborglin/bikesharing/blob/main/resources/images/Trips_by_Weekday_per_Hour_Heatmap1.png)
+![Trips by Weekday per Hour](https://github.com/zborglin/CitiBike_Bikeshare_Market_Analysis/blob/main/resources/images/Trips_by_Weekday_per_Hour_Heatmap1.png)
 ### Figure 3: Trips by Weekday per Hour
 Using color to represent the magnitude of rides that occur throughout each day of the week, a concentration of rides occur during the weekday commute hours. More consistent bike use occurs throughout the weekend days.
 
-![Trips by Gender by Weekday per Hour](https://github.com/zborglin/bikesharing/blob/main/resources/images/Trips_by_Gender_Weekday_per_Hour_Heatmap2.png)
+![Trips by Gender by Weekday per Hour](https://github.com/zborglin/CitiBike_Bikeshare_Market_Analysis/blob/main/resources/images/Trips_by_Gender_Weekday_per_Hour_Heatmap2.png)
 ### Figure 4: User Trips by Gender by Weekday
 Building on the analysis in the previous figure, the data is categorized by gender to reveal similar trends with different magnitudes. Both male and female riders exhibit similar use behavior throughout the week.
 
-![User Trips by Gender by Weekday](https://github.com/zborglin/bikesharing/blob/main/resources/images/User_Trips_by_Gender_by_Weekday_Heatmap3.png)
+![User Trips by Gender by Weekday](https://github.com/zborglin/CitiBike_Bikeshare_Market_Analysis/blob/main/resources/images/User_Trips_by_Gender_by_Weekday_Heatmap3.png)
 ### Figure 5: User Trips by Gender by Weekday
 To dig more deeply into how bikes are utilized throughout the week, the data is also explored in the context of user type (single use or subscriber). This reveals that most users are subscribers, and that subscribers use the bikes often throughout the week - dominating the dataset.
 
-![Bike Utilization Circle](https://github.com/zborglin/bikesharing/blob/main/resources/images/Bike_Utilization_Circle.png)
+![Bike Utilization Circle](https://github.com/zborglin/CitiBike_Bikeshare_Market_Analysis/blob/main/resources/images/Bike_Utilization_Circle.png)
 ### Figure 6: Bike Utilization Circle
 This circle visualization is a useful way to identify bikes in potential need of repair, with larger/darker circles having the most accumulated useage.
 
-![Top Ending Locations Map](https://github.com/zborglin/bikesharing/blob/main/resources/images/Top_Ending_Locations_Map.png)
+![Top Ending Locations Map](https://github.com/zborglin/CitiBike_Bikeshare_Market_Analysis/blob/main/resources/images/Top_Ending_Locations_Map.png)
 ### Figure 7: op Ending Locations Map
 This map visualization gives the ending locations for teh rides recorded in August 2019. This provides insight not only into where bikes needed repair will be stored, but also where users tend to ride bikes to to enable bike distribution planning
 
