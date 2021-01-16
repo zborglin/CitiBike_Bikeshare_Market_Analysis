@@ -63,7 +63,7 @@ To dig more deeply into how bikes are utilized throughout the week, the data is 
 This circle visualization is a useful way to identify bikes in potential need of repair, with larger/darker circles having the most accumulated useage.
 
 ![Top Ending Locations Map](https://github.com/zborglin/CitiBike_Bikeshare_Market_Analysis/blob/main/resources/images/Top_Ending_Locations_Map.png)
-### Figure 7: op Ending Locations Map
+### Figure 7: Top Ending Locations Map
 This map visualization gives the ending locations for teh rides recorded in August 2019. This provides insight not only into where bikes needed repair will be stored, but also where users tend to ride bikes to to enable bike distribution planning
 
 ## Summary
